@@ -74,7 +74,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Your Name - [@realfintorian](https://twitter.com/realfintorian) - johnson.larry.l@fintorian.com
 
-Project Link: [https://github.com/johnsonlarryl/machine_learning_training](https://github.com/your_username/repo_name)
+Project Link: [Pragmatic Programmer](https://github.com/johnsonlarryl/pragmatic_programmer)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
